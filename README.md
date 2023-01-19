@@ -1,4 +1,3 @@
 #gif of work
 
-
-![](https://github.com/gourav-kadyan/reactjs-assesments/blob/master/propgif.gif)
+![propgif](https://user-images.githubusercontent.com/69764718/213458819-5d602354-a7a2-4a42-830b-56956625f259.gif)
